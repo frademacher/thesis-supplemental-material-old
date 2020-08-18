@@ -1,0 +1,21 @@
+/*
+!Greenfield\ Validation\ Package/
+!.gitignore
+
+.metadata/
+bin/
+.launch/
+Trash/
+target/
+.gradle/
+*.java._trace
+*.xtendbin
+*.xtextbin
+out/
+build/
+.idea/
+.~lock*
+*.iml
+*.hprof
+/Greenfield Validation Package/ParkingAreaCreatedEvent.avsc
+/Greenfield Validation Package/**/*-diss.sh
